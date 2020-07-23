@@ -1,6 +1,6 @@
 <h2 align = "center"> 🥊 Rocketfy </h2>
 
-<h2>🎯: Objetivos</h2>
+<h2>🎯 Objetivos</h2>
 
 Este projeto tem como objetivo explorar a linguagem de JS, além das tecnlogias HTML e CSS.
 
