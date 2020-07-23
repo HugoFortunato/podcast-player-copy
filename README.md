@@ -1,5 +1,5 @@
 <div align = "center">
-    <img alt = "Imagem do título" src = "./rock.png">
+    <img alt = "Imagem do título" src = "https://www.google.com.br/url?sa=i&url=http%3A%2F%2Ftedxriodosul.com.br%2F&psig=AOvVaw1lh8rpQjIFurVEmMYf_UUP&ust=1595624072710000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJico4Oh5OoCFQAAAAAdAAAAABAD">
     <h2 align = "center"> 🥊 Rocketfy </h2>
     <div align = "center">
       
