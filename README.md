@@ -9,7 +9,7 @@ O objetivo deste projeto é aprimorar meus conhecimentos em JS, HTML e CSS.
 ## 💻 Projeto
 
 <div align="center">
-    <img alt="Title image" src="./aplic.jpg">
+    <img alt="" src="./aplic.jpg">
   </div>
 
 ## :rocket: Visão Geral
