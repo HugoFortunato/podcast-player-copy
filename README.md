@@ -1,10 +1,10 @@
 <h2 align = "center"> 🥊 Rocketfy </h2>
 
-##: dart: Objetivos
+🎯: Objetivos
 
 Este projeto tem como objetivo explorar a linguagem de JS, além das tecnlogias HTML e CSS.
 
-##: rocket: visão geral
+🚀 Visão geral
 
 O podcast é tem se tornado mais comum em nossas vidas, principalmente quando o assunto nos interessa. O intuito é atrelar isso ao conforto do usuário, utilizando funcionalides pontuais para que ele possa explorar o conteúdo.
 
