@@ -1,30 +1,41 @@
-<h2 align = "center"> 🥊 Rocketfy </h2>
-
-<h2>🎯 Objetivos</h2>
-
-Este projeto tem como objetivo explorar a linguagem de JS, além das tecnlogias HTML e CSS.
-
-<h2>🚀 Visão geral</h2>
-
-O podcast é tem se tornado mais comum em nossas vidas, principalmente quando o assunto nos interessa. O intuito é atrelar isso ao conforto do usuário, utilizando funcionalides pontuais para que ele possa explorar o conteúdo.
-
-## 🚀 Tecnologias
-
-Este projeto foi desenvolvido com as seguintes tecnologias:
-
-- JS
-- HTML
-- CSS
-
-
-## 🤖 Contribuindo
-
-Obrigado por estar interessado em melhorar este pacote. Incentivamos todos a ajudar a melhorar este projeto com alguns novos recursos, correções de bugs e problemas de desempenho. Reserve um pouco do seu tempo para ler nossos guias, para que esse processo possa ser mais rápido e fácil.
-
-### 📖 Diretrizes de contribuição
-
-Reserve um momento para ler sobre nossas [Diretrizes de contribuição] (/. Github / CONTRIBUTING.md) para entender como enviar um problema, confirmar e criar solicitações pull.
-
- 📝 Licença
-
-Licença MIT. Veja o arquivo LICENÇA para mais detalhes.
+<div align = "center">
+    <img alt = "Imagem do título" src = "./rock.png">
+    <h2 align = "center"> 🥊 Rocketfy </h2>
+    <div align = "center">
+      
+    </div>
+  </div>
+  
+  >
+  
+  ## 💻 Projeto
+  
+  O podcast é tem se tornado mais comum em nossas vidas, principalmente quando o assunto nos interessa. 
+  O intuito é atrelar isso ao conforto do usuário, utilizando funcionalides pontuais para que ele possa explorar o conteúdo.
+  
+  >
+  
+  <div align = "center">
+    <img alt = "Imagem do título" src = "./aplic.jpg">
+  </div>
+  
+  >
+  
+  ## 🚀 Tecnologias
+  
+  Este projeto foi desenvolvido com as seguintes tecnologias:
+  
+  - JS
+  - HTML
+  - CSS
+  
+  >
+  
+  ## 👊🏼 Contribuindo
+  Você está totalmente autorizado a contribuir com este projeto. Para fazer isso, bifurque este repositório, faça suas alterações e crie uma solicitação de recebimento.
+  
+  >>
+  
+  <h4 align = "center">
+      Feito por <a href="https://www.linkedin.com/in/hugofor/" style="color: #00a0df" target="_blank"> Hugo Fortunato </a>
+  </h4>
