@@ -6,12 +6,6 @@
 
 O objetivo deste projeto é aprimorar meus conhecimentos em JS, HTML e CSS.
 
-## 💻 Projeto
-
-<div align="center">
-    <img alt="Title image" src="aplic.jpg">
-  </div>
-
 ## :rocket: Visão Geral
 
 O podcast tem se tornado cada vez mais comum entre as pessoas, principalmente quando o assunto o interessa.
