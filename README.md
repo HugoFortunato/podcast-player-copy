@@ -1,41 +1,23 @@
-<div align = "center">
-    <img alt = "Imagem do título" src = "https://www.google.com.br/url?sa=i&url=http%3A%2F%2Ftedxriodosul.com.br%2F&psig=AOvVaw1lh8rpQjIFurVEmMYf_UUP&ust=1595624072710000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJico4Oh5OoCFQAAAAAdAAAAABAD">
-    <h2 align = "center"> 🥊 Rocketfy </h2>
-    <div align = "center">
-      
-    </div>
-  </div>
-  
-  >
-  
-  ## 💻 Projeto
-  
-  O podcast é tem se tornado mais comum em nossas vidas, principalmente quando o assunto nos interessa. 
-  O intuito é atrelar isso ao conforto do usuário, utilizando funcionalides pontuais para que ele possa explorar o conteúdo.
-  
-  >
-  
-  <div align = "center">
-    <img alt = "Imagem do título" src = "./aplic.jpg">
-  </div>
-  
-  >
-  
-  ## 🚀 Tecnologias
-  
-  Este projeto foi desenvolvido com as seguintes tecnologias:
-  
-  - JS
-  - HTML
-  - CSS
-  
-  >
-  
-  ## 👊🏼 Contribuindo
-  Você está totalmente autorizado a contribuir com este projeto. Para fazer isso, bifurque este repositório, faça suas alterações e crie uma solicitação de recebimento.
-  
-  >>
-  
-  <h4 align = "center">
-      Feito por <a href="https://www.linkedin.com/in/hugofor/" style="color: #00a0df" target="_blank"> Hugo Fortunato </a>
-  </h4>
+<center><img src="rock.png" alt=""></center>
+
+<h2 align="center"> 🥊 Boxing </h2>
+
+## :dart: Objetivos
+
+O objetivo deste projeto é aprimorar meus conhecimentos em JS, HTML e CSS.
+
+## :rocket: Visão Geral
+
+O podcast tem se tornado cada vez mais comum entre as pessoas, principalmente quando o assunto o interessa.
+A ideia desta aplicação é oferecer interação e conforto ao usuário de modo que ele possa usufruir 100% do podcast.
+
+
+## 🤖 Contribuição
+
+Você tem total liberdade para melhorar e contribuir com esse projeto.
+
+### 📖 Diretrizes da contribuição
+
+Reserve um momento para ler sobre as nossas [Contribution Guidelines](/.github/CONTRIBUTING.md) para entender como enviar um problema.
+
+
