@@ -25,6 +25,6 @@ Obrigado por estar interessado em melhorar este pacote. Incentivamos todos a aju
 
 Reserve um momento para ler sobre nossas [Diretrizes de contribuição] (/. Github / CONTRIBUTING.md) para entender como enviar um problema, confirmar e criar solicitações pull.
 
-##: 📝 Licença
+ 📝 Licença
 
 Licença MIT. Veja o arquivo LICENÇA para mais detalhes.
