@@ -1,6 +1,6 @@
-<center><img src="rock.png" alt=""></center>
+<center><img src="aplic.jpg" alt=""></center>
 
-<h2 align="center"> 🥊 Boxing </h2>
+<h2 align="center"> 🚀 Rocketfy </h2>
 
 ## :dart: Objetivos
 
